@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '2970'
     url: http://www.gutenberg.org/2009/agents/2970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35179#The-Three-Sapphires
 gutenberg_issued: '2011-02-05'
 gutenberg_type: Text
 identifiers:
